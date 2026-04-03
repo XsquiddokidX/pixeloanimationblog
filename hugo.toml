@@ -1,0 +1,4 @@
+baseURL = 'https://xsquiddokidx.github.io/pixeloanimationblog'
+locale = 'en-us'
+title = 'Pixelo'
+theme = 'ananke'
