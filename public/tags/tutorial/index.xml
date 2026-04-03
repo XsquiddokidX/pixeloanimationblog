@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on Pixelo</title><link>https://xsquiddokidx.github.io/pixeloanimationblog/tags/tutorial/</link><description>Recent content in Tutorial on Pixelo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2026 15:35:30 -0700</lastBuildDate><atom:link href="https://xsquiddokidx.github.io/pixeloanimationblog/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Day 1: Creating the Show</title><link>https://xsquiddokidx.github.io/pixeloanimationblog/posts/day-1---creating-the-show/</link><pubDate>Fri, 03 Apr 2026 15:35:30 -0700</pubDate><guid>https://xsquiddokidx.github.io/pixeloanimationblog/posts/day-1---creating-the-show/</guid><description>&lt;p&gt;Hello! I am &lt;strong&gt;XsquiddokidX&lt;/strong&gt;, a developer, artist, and a new animator. I&amp;rsquo;m not a professional animator—I&amp;rsquo;m just starting out and learning as I go. In this blog series, I&amp;rsquo;ll be documenting my journey and teaching you how to create your own animated show from scratch.&lt;/p&gt;
-&lt;h2 id="prerequisites"&gt;Prerequisites&lt;/h2&gt;
-&lt;p&gt;Before we dive in, make sure you have:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="https://opentoonz.github.io/e/index.html"&gt;OpenToonz&lt;/a&gt;&lt;/strong&gt; installed.&lt;/li&gt;
-&lt;li&gt;A &lt;strong&gt;Creative Mindset&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h2 id="step-1-setting-up-the-workspace"&gt;Step 1: Setting up the Workspace&lt;/h2&gt;
-&lt;p&gt;First, download OpenToonz for your OS (I&amp;rsquo;m using macOS). Once installed, open it and create a new project.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Pixelo</title>
+    <link>https://xsquiddokidx.github.io/pixeloanimationblog/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Pixelo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2026 15:35:30 -0700</lastBuildDate>
+    <atom:link href="https://xsquiddokidx.github.io/pixeloanimationblog/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1: Creating the Show</title>
+      <link>https://xsquiddokidx.github.io/pixeloanimationblog/posts/day-1---creating-the-show/</link>
+      <pubDate>Fri, 03 Apr 2026 15:35:30 -0700</pubDate>
+      <guid>https://xsquiddokidx.github.io/pixeloanimationblog/posts/day-1---creating-the-show/</guid>
+      <description>&lt;p&gt;Hello! I am &lt;strong&gt;XsquiddokidX&lt;/strong&gt;, a developer, artist, and a new animator. I&amp;rsquo;m not a professional animator—I&amp;rsquo;m just starting out and learning as I go. In this blog series, I&amp;rsquo;ll be documenting my journey and teaching you how to create your own animated show from scratch.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;&#xA;&lt;p&gt;Before we dive in, make sure you have:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://opentoonz.github.io/e/index.html&#34;&gt;OpenToonz&lt;/a&gt;&lt;/strong&gt; installed.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;Creative Mindset&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;step-1-setting-up-the-workspace&#34;&gt;Step 1: Setting up the Workspace&lt;/h2&gt;&#xA;&lt;p&gt;First, download OpenToonz for your OS (I&amp;rsquo;m using macOS). Once installed, open it and create a new project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

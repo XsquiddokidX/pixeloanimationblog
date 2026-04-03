@@ -40,6 +40,6 @@ Focus on the basic path of motion. Once you've finished your frames, hit the **P
 ---
 
 ### Questions & Feedback
-If you have any questions, want to share feedback, or need to report an error, please head over to the **[Discussions tab on GitHub](https://github.com/XsquiddokidX/Animation-Blog/discussions)**. I'd love to hear from you!
+If you have any questions, want to share feedback, or need to report an error, please head over to the **[Discussions tab on GitHub](https://github.com/XsquiddokidX/pixeloanimationblog/discussions)**. I'd love to hear from you!
 
 
